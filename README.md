@@ -1,4 +1,4 @@
-![Web developer](https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)
+![Web developer](https://media.licdn.com/dms/image/D4E16AQG1bvtfu2al3w/profile-displaybackgroundimage-shrink_350_1400/0/1683491473457?e=1689206400&v=beta&t=O7jLKcrs9IjXmHX49pfOnbNlhxqtWbunclknbnx1JgE?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=)
 ### Hi there 👋, I'm Md Jihad Khan
 #### Web developer
 
