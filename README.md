@@ -4,7 +4,7 @@
 
 
 
-Skills: JS / HTML / CSS
+Skills:  REACT / JS / NODE.js / MONGO DB / EXPRESS / JWT / FIREBASE / TAILWIND CSS / HTML / CSS
 
 
 
