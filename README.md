@@ -22,6 +22,6 @@ Skills:  REACT / JS / NODE.js / MONGO DB / EXPRESS / JWT / FIREBASE / TAILWIND C
 
 ![GitHub metrics](https://metrics.lecoq.io/md-jihad-khan)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=md-jihad-khan)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=md-jihad-khan&theme=great-gatsby&hide_border=true)<br/>
 
 ![Profile views](https://gpvc.arturio.dev/md-jihad-khan)  
